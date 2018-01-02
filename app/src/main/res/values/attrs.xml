@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="card">
+        <attr name="id" format="integer" />
+        <!-- minion(0), spell(1), weapon(2)-->
+        <attr name="type" format="integer" />
+        <attr name="mana" format="integer"/>
+        <attr name="hero_class" format ="integer" />
+        <attr name="name" format="string" />
+        <attr name="res_name" format="string" />
+        <attr name="legendary" format="boolean" />
+    </declare-styleable>
+</resources>

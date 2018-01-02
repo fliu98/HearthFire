@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HearthFire</string>
+    <string name="card">card</string>
+    <string name="deck">deck</string>
+    <string name="info">info</string>
+    <string name="deck_name_hint">Enter a deck title</string>
+    <string name="deck_description_hint">Enter a deck description</string>
+    <string name="save_deck">Save Deck</string>
+    <string name="empty_title">Please enter a title.</string>
+    <string name="incomplete_deck">This deck is incomplete.</string>
+    <string name="google_api_server_client_id">
+        99237610669-3jlgtin9ndf8bc6kfr0spe5941597696.apps.googleusercontent.com
+    </string>
+    <string name="failed_login">Login failed. Please try again later.</string>
+    <string name="no_cards">No cards</string>
+    <string name="deck_save_success">Save successful.</string>
+    <string name="deck_save_failed">Unable to save. Please try again later.</string>
+    <string name="new_deck">New Deck</string>
+    <string name="my_decks">My Decks</string>
+    <string name="welcome">Welcome to HearthFire!</string>
+    <string name="choose_a_class">Choose a class</string>
+
+    <!-- Card Names -->
+    <string name="acidic_swamp_ooze">Acidic Swamp Ooze</string>
+    <string name="ancestral_healing">Ancestral Healing</string>
+    <string name="animal_companion">Animal Companion</string>
+    <string name="arcane_explosion">Arcane Explosion</string>
+    <string name="arcane_intellect">Arcane Intellect</string>
+    <string name="arcane_missiles">Arcane Missiles</string>
+    <string name="arcane_shot">Arcane Shot</string>
+    <string name="arcanite_reaper">Arcanite Reaper</string>
+    <string name="archmage">Archmage</string>
+    <string name="assassins_blade">Assassin\'s Blade</string>
+    <string name="assassinate">Assassinate</string>
+    <string name="backstab">Backstab</string>
+    <string name="blessing_of_kings">Blessing of Kings</string>
+    <string name="blessing_of_might">Blessing of Might</string>
+    <string name="bloodfen_raptor">Bloodfen Raptor</string>
+    <string name="bloodlust">Bloodlust</string>
+    <string name="bluegill_warrior">Bluegill Warrior</string>
+    <string name="booty_bay_bodyguard">Booty Bay Bodyguard</string>
+    <string name="boulderfist_ogre">Boulderfist Ogre</string>
+    <string name="charge">Charge</string>
+    <string name="chillwind_yeti">Chillwind Yeti</string>
+    <string name="claw">Claw</string>
+    <string name="cleave">Cleave</string>
+    <string name="consecration">Consecration</string>
+    <string name="core_hound">Core Hound</string>
+    <string name="corruption">Corruption</string>
+    <string name="dalaran_mage">Dalaran Mage</string>
+    <string name="darkscale_healer">Darkscale Healer</string>
+    <string name="deadly_poison">Deadly Poison</string>
+    <string name="divine_spirit">Divine Spirit</string>
+    <string name="dragonling_mechanic">Dragonling Mechanic</string>
+    <string name="drain_life">Drain Life</string>
+    <string name="dread_infernal">Dread Infernal</string>
+    <string name="elven_archer">Elven Archer</string>
+    <string name="execute">Execute</string>
+    <string name="fan_of_knives">Fan of Knives</string>
+    <string name="fiery_war_axe">Fiery War Axe</string>
+    <string name="fire_elemental">Fire Elemental</string>
+    <string name="fireball">Fireball</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
